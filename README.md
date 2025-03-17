@@ -64,6 +64,9 @@ During this whole process the .NET Aspire dashboard should be available to you. 
 
 ## I want to learn. Where do I look?
 
+- Keycloak Admin: Click on `http://localhost:8080`. The login is:
+    - `Username: admin`
+    - `Password: password`
 - Keycloak Login Theme: `keycloak-extension/themes/banana`
 - Keycloak User Storage Provider backed by MSSQL Data: `keycloak-extension/custom-user-provider/src/main/java/org/keycloak/examples/storage/user`
 - Creating Keycloak container: `src/AppHost.AppHost/Program.cs`
