@@ -1,0 +1,4 @@
+main\java\org\keycloak\examples\storage\user\CustomerEntity.class
+main\java\org\keycloak\examples\storage\user\CustomerUserStorageProviderFactory.class
+main\java\org\keycloak\examples\storage\user\CustomerUserStorageProvider.class
+main\java\org\keycloak\examples\storage\user\CustomerAdapter.class
